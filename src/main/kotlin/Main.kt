@@ -1,7 +1,7 @@
 fun main() {
 num()
     words()
-t
+
 val total = Calculator()
     total.addition(25,5)
     total.subtraction(25,5)
