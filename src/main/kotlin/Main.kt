@@ -28,7 +28,7 @@ one string and returns it.*/
 
 fun words(){
     var text = arrayOf("book", "pen", "chair")
-    println(text[0]+text[1]+text[2])
+    println(text.contentToString())
 }
 /*
 5. Create a calculator class that is capable of the following functions:
